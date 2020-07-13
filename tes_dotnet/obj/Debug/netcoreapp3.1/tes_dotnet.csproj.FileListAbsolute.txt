@@ -1,0 +1,13 @@
+D:\zzz coding\C# Fundamentals\tes_dotnet\bin\Debug\netcoreapp3.1\tes_dotnet.exe
+D:\zzz coding\C# Fundamentals\tes_dotnet\bin\Debug\netcoreapp3.1\tes_dotnet.deps.json
+D:\zzz coding\C# Fundamentals\tes_dotnet\bin\Debug\netcoreapp3.1\tes_dotnet.runtimeconfig.json
+D:\zzz coding\C# Fundamentals\tes_dotnet\bin\Debug\netcoreapp3.1\tes_dotnet.runtimeconfig.dev.json
+D:\zzz coding\C# Fundamentals\tes_dotnet\bin\Debug\netcoreapp3.1\tes_dotnet.dll
+D:\zzz coding\C# Fundamentals\tes_dotnet\bin\Debug\netcoreapp3.1\tes_dotnet.pdb
+D:\zzz coding\C# Fundamentals\tes_dotnet\obj\Debug\netcoreapp3.1\tes_dotnet.csprojAssemblyReference.cache
+D:\zzz coding\C# Fundamentals\tes_dotnet\obj\Debug\netcoreapp3.1\tes_dotnet.AssemblyInfoInputs.cache
+D:\zzz coding\C# Fundamentals\tes_dotnet\obj\Debug\netcoreapp3.1\tes_dotnet.AssemblyInfo.cs
+D:\zzz coding\C# Fundamentals\tes_dotnet\obj\Debug\netcoreapp3.1\tes_dotnet.csproj.CoreCompileInputs.cache
+D:\zzz coding\C# Fundamentals\tes_dotnet\obj\Debug\netcoreapp3.1\tes_dotnet.dll
+D:\zzz coding\C# Fundamentals\tes_dotnet\obj\Debug\netcoreapp3.1\tes_dotnet.pdb
+D:\zzz coding\C# Fundamentals\tes_dotnet\obj\Debug\netcoreapp3.1\tes_dotnet.genruntimeconfig.cache
