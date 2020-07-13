@@ -31,28 +31,16 @@ As C# is close to C, C++ and Java, it makes it easy for programmers to switch to
 ======================================================================
 C# Windows setup
 ======================================================================
-Running C# on terminal
 
-1. go to
-    C:\Windows\Microsoft.NET\Framework64\v4.0.30319
-    or
-    C:\Windows\Microsoft.NET\Framework64\v4.0.30319
-    copy the path
+1. Install .NET Core SDK
+    - go to https://dotnet.microsoft.com/download/dotnet-core
+    - download salah satu versi .NET Core SDK (pilih yg recommended)
+    - cek instalasi: open cmd & run:
+        $ dotnet --version
 
-2. open Environmental Variables,
-    on System Variables click path, click New
-    paste the path
-    OK
+2. Open VScode
+    - install C# extension for VScode by Microsoft
 
-3. open terminal
-    execute: $ csc
-    artinya c# sudah siap
-
-4. create a c# file (.cs)
-    execute on terminal (you can use vscode & its c# extension)
-        $ csc /out:namafile.exe namafile.cs
-    akan muncul file .exe, eksekusi:
-        $ namafile.exe
-
-    atau bisa juga sekaligus: create exe & execute exe:
-        $ csc /out:namafile.exe namafile.cs && namafile.exe
+3. create .NET app:
+    - $ dotnet new console
+    - run the app: $ dotnet run

@@ -14,6 +14,8 @@ namespace HelloWorld
 }
 
 /*
+Run on terminal: $ csc /out:0.exe 0_basic.cs && 0.exe
+
 Line 1: using System means that we can use classes from the System namespace.
 Line 2: A blank line. C# ignores white space. However, multiple lines makes the code more readable.
 Line 3: namespace is a used to organize your code, and it is a container for classes and other namespaces.
