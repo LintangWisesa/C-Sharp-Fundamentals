@@ -42,5 +42,6 @@ C# Windows setup
     - install C# extension for VScode by Microsoft
 
 3. create .NET app:
-    - $ dotnet new console
+    - create folder misal "Test"
+    - open cmd: $ dotnet new console
     - run the app: $ dotnet run
