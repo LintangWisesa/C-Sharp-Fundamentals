@@ -42,6 +42,8 @@ C# Windows setup
 
 2. create C# file (.csx) & run via terminal
     - $ scriptcs namaFile.csx
+    or without file extension
+    - $ scriptcs namaFile
 
 ======================================================================
 .cs (C# file) vs .csx (C# script file)
